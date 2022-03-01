@@ -34,15 +34,43 @@ What does this line graph tell us?
 
 ## Additional Analyses & Trends
 
+In additional to the original hypotheses of launch dates vs outcome and $ Goals vs outcome, we also examined a few other relationships.  Two particular relationships that are noteworthy to share here.
+
+1. **Insights: Staff Pick vs Outcome**
+
+When we looked whether a play being staff picked has an impact on the outcome, the chart below clearly points to a much higher chance of success if a show was picked by the staff.  Plays that were staff picked has a 90% success rate (notated by 'TRUE') vs a 63% sucess rate if a play was not staff picked (notated by 'FALSE').  Huge difference, right?
+
+![Staff Picks vs Outcome](https://user-images.githubusercontent.com/100495799/156072780-7fc9f96a-7ef5-4207-a7c4-4aa805f25d13.png)
+
+In addition, in the summary chart below, when a play is marked "staff pick", the average percentage of the fundraising changes from 86% & 88% overall average funding to 106%.  Having the "staff pick" increases both the fundraising outcomes significantly and the odds of success of a play.
+
+_Staff Picks & Funding Outcomes_
+<img width="234" alt="Screen Shot 2022-02-28 at 6 02 28 PM" src="https://user-images.githubusercontent.com/100495799/156073175-bed7d393-7ec3-40a5-a3d8-a6eeff4d58ad.png">
+
+2. **Insights: Spotlight vs Outcome**
+
+Even more surprisingly, of the plays selected for a **spotlight**, 100% of these plays were successful despite of the any seasonality that we've seen in the data earlier.
+
+In terms of monetary impact of a spotlight, our data indicates that when a theater show (or play) is endorsed, it will on average an achieve 128% of its goal compared to 12% achievement for those not spotlighted.
+
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/100495799/156080486-664056a7-0404-45cb-8e50-20ab7b1f85ed.png">
+
+
+Remember the **Theater Outcomes Based on Launch Date** analysis above? All of the successful theater shows were spotlighted.  None of the failed and canceled shows were spotlighted.
+
+
+
 ## Recommendations
 
 The detailed analysis quite clearly tell us that if Louis wants to optimize for the most successful outcome for her future campaigns, the recommendations are as follows:
 
-1. **Getting Spotlight:** Of the 839 theater shows selected, 100% of the shows have successful outcomes, regardless of launch date!  This means getting a spotlight endorsement will guarantee her success. Interestingly, if we look at spotlights on all parent categories, the success rate decreases to 87%. The 100% success rate is applicable to theaters and plays specifically.  Louise should leverage this finding. AND/OR (ideally both)
- -- Of the total theater shows not spotlighted, 0% were successful (regardless of launch date); 
+1. **Getting Spotlight:** Of the 839 theater shows spotlighted, 100% of this cohort had successful outcomes, regardless of launch date!  This means getting a spotlight endorsement will guarantee Louise success. It is also worth noting that all spotlighted fundraisings across _all categories_ have had successful launches. 
 
+Conversely, of the 530 theater shows not spotlightted, 0% were successful; 
+AND/OR (ideally both)
 
-2. **Getting Staff Pick:** Of the 132 theater shows selected, 91% of the shows have successful outcomes compared to the 719 not picked by staff, only 58% were successful.
+2. **Getting Staff Pick:** Of the 114 theater shows selected, 90% of the shows have successful outcomes compared to the 719 not picked by staff, which shows only 63% being successful outcomes.
+
 
 3. Relative to the volume of plays launched each month, the data suggests _September, October, and December being the least optimal_ with % success rates being the lowest out of the twelve (12) months.  Louise should refrain from launching shows during these months until there are further data on the cause(s) for seasonality.  Success for other months are marginally different compared month to month.
 
