@@ -81,4 +81,5 @@ AND/OR (ideally both)
 - Lack of data on donors, which can help answer the questions like: Are there repeated donors?  If so, are there specific donors Louise should target who are particularly interested in supporting theaters and plays? Can we target the donors with the highest aggregate donations?
 - The data set contains fundraising in multiple countries, although largely repensented by US data. We are operating under the assumption Louise understand overall success/fail rates is heavily indexed for _overall_ success of outcomes in all countries.
 - Genre of the plays could be a factor in determining the success rate, though no data on genre is available in the data set.
+- For the purpose of this project, we are not specifically testing for statistical significance to determine correlation of variables.
 
