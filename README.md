@@ -60,7 +60,7 @@ Remember the **Theater Outcomes Based on Launch Date** analysis above? ALL of th
 
 ## Recommendations
 
-The detailed analysis we conducted quite clearly informs us that that if Louise wants to optimize for the most successful outcome for future campaigns, the recommendations are as follows:
+The detailed analysis we conducted quite clearly informs us that if Louise wants to optimize for the most successful outcome for future campaigns, the recommendations are as follows:
 
 1. **Getting Spotlight:**  
 
